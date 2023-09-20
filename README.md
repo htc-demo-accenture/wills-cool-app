@@ -1,4 +1,4 @@
-# Podinfo - Wills-cool-app
+# Wills-cool-app!
 
 A simple score project deploying podinfo.
 
