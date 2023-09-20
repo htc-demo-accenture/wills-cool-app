@@ -26,3 +26,5 @@ resources:
       port: 80
   db:
     type: postgres
+  images:
+    type: s3
