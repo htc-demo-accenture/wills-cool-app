@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "wills-cool-app"
+  annotations:
+    "humanitec.com/orgId": "humanitec-acn"
+    "humanitec.com/appId": "wills-cool-app"
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
